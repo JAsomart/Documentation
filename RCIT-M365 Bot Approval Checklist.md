@@ -136,4 +136,4 @@
 
 ---
 
-*Rough draft framework to ensure safe, efficient, and compliant use of bots
+*Rough draft framework
