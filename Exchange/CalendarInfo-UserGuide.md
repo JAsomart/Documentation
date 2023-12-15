@@ -40,17 +40,14 @@ Guidance on scheduling meetings, inviting attendees, booking rooms/resources, an
 - **Outlook Online (OWA)**: [Microsoft: User Training - Invite Attendees in Outlook on the Web](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-on-the-web-95304ab3-9596-46b8-bd8b-2d0532404d6b)
 
 ### Room and Resource Booking
-- **Outlook for Desktop and OWA**: [Room Booking Instructions](#link-to-microsoft-room-booking-instructions)
-
-### Finding a Suitable Time
-- **Outlook for Desktop and OWA**: [Finding Time Instructions](#link-to-microsoft-finding-time-instructions)
+- **Outlook for Desktop and OWA**: [Microsoft: User Training - Scheduling Assistant and Room Finder for meetings in Outlook - All Platforms](https://support.microsoft.com/en-us/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
 
 ## Sharing and Permissions
 How to share your calendar and set up permissions, with distinct steps for each platform.
 
 ### Sharing Your Calendar
-- **Outlook for Desktop**: [Desktop Sharing Instructions](#link-to-microsoft-desktop-sharing-instructions)
-- **Outlook Online (OWA)**: [Online Sharing Instructions](#link-to-microsoft-online-sharing-instructions)
+- **Outlook for Desktop**: [Microsoft: User Training - Sharing your Calendar in Outlook for Windows](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b#:~:text=Share%20your%20calendar%201%20Select%20Calendar%20%3E%20Share,the%20access%20level%20to%20give%2C%20and%20select%20OK.)
+- **Outlook Online (OWA)**: [Microsoft: User Training - Sharing your Calendar in Outlook on the Web](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-on-the-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
 ### Receiving a Shared Calendar
 - **Outlook for Desktop and OWA**: [Receiving Calendar Instructions](#link-to-microsoft-receiving-calendar-instructions)
