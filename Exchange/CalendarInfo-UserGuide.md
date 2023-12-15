@@ -36,8 +36,8 @@ Instructions on creating, editing, and managing events, with separate steps for 
 Guidance on scheduling meetings, inviting attendees, booking rooms/resources, and using the Scheduling Assistant.
 
 ### Inviting Attendees
-- **Outlook for Desktop**: [Desktop Invite Instructions](#link-to-microsoft-desktop-invite-instructions)
-- **Outlook Online (OWA)**: [Online Invite Instructions](#link-to-microsoft-online-invite-instructions)
+- **Outlook for Desktop**: [Microsoft: User Training - Invite Attendees in Outlook for Windows](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
+- **Outlook Online (OWA)**: [Microsoft: User Training - Invite Attendees in Outlook on the Web](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-on-the-web-95304ab3-9596-46b8-bd8b-2d0532404d6b)
 
 ### Room and Resource Booking
 - **Outlook for Desktop and OWA**: [Room Booking Instructions](#link-to-microsoft-room-booking-instructions)
