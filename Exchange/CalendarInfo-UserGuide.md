@@ -54,16 +54,17 @@ How to share your calendar and set up permissions, with distinct steps for each 
 
   - Please Note: When a calendar is shared with a recipient, Outlook will attempt to send an email that will allow the user to connect to the calendar.
     
-    - If permissions are changed by the calendar owner at a future time, or the individual already has an active connection to the calendar in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
+    - If permissions are changed by a calendar owner at a future time, or the individual already has an active connection to a calendar being re-shared with them in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
 
 ## Best Practices for Users
 Effective use of an Outlook Calendar involves following best practices to ensure efficient time management and collaboration.
 
 ### Process all meeting requests and cancellations
 
-- Although you can delete a meeting request directly from your Inbox, you should properly process the meeting request by either accepting or declining it. Always use the Remove from Calendar command to process meeting cancellations from your Inbox. Avoid processing meetings directly from the Calendar module. Failure to do this can result in broken event functionality, that both Microsoft and RCIT will be unable to restore, as this is no current support in the product for this.
+- Although you can delete a meeting request directly from your Inbox, you should properly process the meeting request by either accepting or declining it. Always use the Remove from Calendar command to process meeting cancellations from your Inbox. Avoid processing meetings directly from the Calendar module. Failure to do this can result in broken event functionality, that both Microsoft and RCIT will be unable to restore, as this is no current Microsoft support in the product for this, at the time of this writing.
 
-- In a sitaution where a calendar event becomes "ophaned" you will need to recreate the event and re-invite/notify all prior participants. Prior participants will also need to manually remove the prior version of the prior orphaned meeting manually.
+- In the event where a calendar meeting becomes "orphaned" from the original organizer, you will need to recreate the event and re-invite all original participants.
+  - Prior participants will also need to manually remove the prior version of orphaned meeting manually. 
 
 ### Working with recurring meetings
 
@@ -74,6 +75,9 @@ Effective use of an Outlook Calendar involves following best practices to ensure
 **End a recurring meeting before the original end date**
   
 - Although you can cancel a recurring meeting, a better option is to change the end date for the series. This allows you and the attendees to keep a record of the meetings that occurred in the past. If you cancel the recurring meeting altogether, that history is lost. The best option is to set a new end date and then send the update to all attendees. This ends the meeting series early, while keeping a record of previous meetings.
+
+### Change the organizer
+Outlook does not provide a way to change a meeting organizer. To change the meeting organizer of a recurring meeting, end the recurring meeting. To do this, set an earlier end date and send the update to all attendees. After you complete this step, the new organizer should create a new recurring meeting. [How to properly cancel a meeting](https://support.microsoft.com/en-us/office/cancel-a-meeting-9e1eac0d-0462-4a01-ad0b-7d0543819562)
 
 ### Effective Calendar Sharing
 - **Selective Sharing:** Share only necessary details of your calendar to maintain privacy and confidentiality. [Calendar Sharing Best Practices](#link-to-microsoft-calendar-sharing-best-practices)
