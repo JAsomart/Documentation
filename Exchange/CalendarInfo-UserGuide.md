@@ -22,8 +22,8 @@ Instructions on creating, editing, and managing events, with separate steps for 
   3. Fill in the details and click "Save" or "Send."
 
 ### Editing an Event
-- **Outlook for Desktop**: [Desktop Editing Instructions](#link-to-microsoft-desktop-event-editing-instructions)
-- **Outlook Online (OWA)**: [Online Editing Instructions](#link-to-microsoft-online-event-editing-instructions)
+- **Outlook for Desktop**: [Microsoft: User Training - Modify events in Outlook for Windows](https://support.microsoft.com/en-us/office/change-an-appointment-meeting-or-event-in-outlook-29b44f7a-8938-4b99-b98d-3efcf45f7613#ID0EBBD=Classic_Outlook)
+- **Outlook Online (OWA)**: [Microsoft: User Training - Modify events in Outlook on the Web](https://support.microsoft.com/en-us/office/create-modify-or-delete-a-meeting-request-or-appointment-in-outlook-on-the-web-6283f744-4ce1-470e-9d6b-96fa94e52996#:~:text=Modify%20a%20meeting%20or%20appointment%3A%201%20At%20the,Send%20if%20this%20is%20a%20meeting%20with%20attendees.)
 
 ### Deleting an Event
 - **Outlook for Desktop**: [Desktop Deletion Instructions](#link-to-microsoft-desktop-event-deletion-instructions)
