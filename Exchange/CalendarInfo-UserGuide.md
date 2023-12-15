@@ -8,7 +8,7 @@
 5. [Items IT Can't and Won't Support](#items-it-cant-and-wont-support)
 
 ## Event Creation and Management
-Instructions on creating, editing, and managing events, with separate steps for Outlook for Desktop and Outlook Online (OWA).
+Instructions on creating, editing, and managing events, with separate steps for Outlook for Desktop and Outlook on the Web (OWA).
 
 ### Creating an Event
 - **Outlook for Desktop**: [Microsoft: User Training - Schedule events in Outlook for Windows](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
@@ -33,7 +33,7 @@ Instructions on creating, editing, and managing events, with separate steps for 
 - **Outlook for Desktop and OWA**: [Microsoft: User Training: Time Zone Management - All Platforms](https://support.microsoft.com/en-us/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04#ID0EBBD=Windows_(newer_versions))
 
 ## Meeting Scheduling
-Guidance on scheduling meetings, inviting attendees, booking rooms/resources, and using the Scheduling Assistant.
+Guidance on scheduling meetings, inviting attendees, and booking rooms/resources.
 
 ### Inviting Attendees
 - **Outlook for Desktop**: [Microsoft: User Training - Invite Attendees in Outlook for Windows](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
@@ -49,8 +49,12 @@ How to share your calendar and set up permissions, with distinct steps for each 
 - **Outlook for Desktop**: [Microsoft: User Training - Sharing your Calendar in Outlook for Windows](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b#:~:text=Share%20your%20calendar%201%20Select%20Calendar%20%3E%20Share,the%20access%20level%20to%20give%2C%20and%20select%20OK.)
 - **Outlook Online (OWA)**: [Microsoft: User Training - Sharing your Calendar in Outlook on the Web](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-on-the-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-### Receiving a Shared Calendar
-- **Outlook for Desktop and OWA**: [Receiving Calendar Instructions](#link-to-microsoft-receiving-calendar-instructions)
+### Connecting to a Shared Calendar
+- **Outlook for Desktop and OWA**: [Microsoft: User Training - Open another person's Exchange Calendar](https://support.microsoft.com/en-us/office/open-another-person-s-exchange-calendar-2257f515-408f-48ea-9363-11d0d5848c77#ID0EBBD=Microsoft_365)
+
+  - Please Note: When a calendar is shared with a recipient, Outlook will attempt to send an email that will allow the user to connect to the calendar.
+    
+    - If permissions are changed by the calendar owner at a future time, or the individual already has an active connection to the calendar in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
 
 ### Delegate Access
 - **Outlook for Desktop**: [Delegate Access Instructions](#link-to-microsoft-delegate-access-instructions)
