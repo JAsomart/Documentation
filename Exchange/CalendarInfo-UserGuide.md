@@ -56,7 +56,8 @@ How to share your calendar and set up permissions, with distinct steps for each 
     
     - If permissions are changed by a calendar owner at a future time, or the individual already has an active connection to a calendar being re-shared with them in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
 
-## Best Practices for Users
+## User Calendar Best Practices -  [Microsoft Calendar Best Practices](https://support.microsoft.com/en-us/office/best-practices-for-organizations-when-using-the-outlook-calendar-d93f72d3-2361-4e0d-8d6a-5c4939c17f39)
+
 Effective use of an Outlook Calendar involves following best practices to ensure efficient time management and collaboration.
 
 ### Process all meeting requests and cancellations
@@ -77,11 +78,25 @@ Effective use of an Outlook Calendar involves following best practices to ensure
 - Although you can cancel a recurring meeting, a better option is to change the end date for the series. This allows you and the attendees to keep a record of the meetings that occurred in the past. If you cancel the recurring meeting altogether, that history is lost. The best option is to set a new end date and then send the update to all attendees. This ends the meeting series early, while keeping a record of previous meetings.
 
 ### Change the organizer
-Outlook does not provide a way to change a meeting organizer. To change the meeting organizer of a recurring meeting, end the recurring meeting. To do this, set an earlier end date and send the update to all attendees. After you complete this step, the new organizer should create a new recurring meeting. [How to properly cancel a meeting](https://support.microsoft.com/en-us/office/cancel-a-meeting-9e1eac0d-0462-4a01-ad0b-7d0543819562)
 
-### Effective Calendar Sharing
-- **Selective Sharing:** Share only necessary details of your calendar to maintain privacy and confidentiality. [Calendar Sharing Best Practices](#link-to-microsoft-calendar-sharing-best-practices)
-- **Regular Permission Reviews:** Periodically review and adjust who has access to your calendar and their permission levels. [Managing Calendar Permissions](#link-to-microsoft-managing-calendar-permissions)
+- Outlook does not provide a way to change a meeting organizer. To change the meeting organizer of a recurring meeting, end the recurring meeting. To do this, set an earlier end date and send the update to all attendees. After you complete this step, the new organizer should create a new recurring meeting.
+
+  -For more information about setting an earlier end date, see [Cancel a meeting](https://support.microsoft.com/en-us/office/cancel-a-meeting-9e1eac0d-0462-4a01-ad0b-7d0543819562)
+
+### Avoid using a recurring meeting to share attachments
+
+- Attachments add to the complexity of recurring meeting exceptions. Each exception contains its own copy of the attachments. As exceptions are added to recurring meetings, new copies of the attachments are created. If you make changes to one set of attachments, these changes do not propagate to the other exceptions. If you require that all attendees have the most recent copy of changes for any given meeting, share the documents via a sharing service, such as OneDrive. Enterprise users can take advantage of SharePoint or other shared file server on the network.
+
+  - Note: The actions of adding and removing attachments to standalone, non-recurring meetings are fully supported.
+ 
+### Avoid copying meetings
+
+- By design, Outlook removes any links between a copied meeting and the original meeting. This helps prevent inconsistencies. Newer versions of Outlook add the text string "Copy:" to the subject. This makes it easy to identify meeting copies.
+- Actions related to copied meetings yield unexpected results, so we recommend avoiding copying meetings. This applies to both meetings copied from another user's calendar, as well as those copied from another calendar folder that you own.
+- For more information about how to move meetings that you organized to another calendar folder, see:
+
+  - How to move Outlook meetings without losing the option to "[Send Update](https://learn.microsoft.com/en-US/outlook/troubleshoot/calendaring/send-update-missing-copy-meeting)"
+  - Please note, RCIT cannot restore events which have been copied, and this should be avoided when possible.
 
 ### General Calendar Management
 - **Update Regularly:** Keep your calendar up-to-date to accurately reflect your availability. [Calendar Management Guide](#link-to-microsoft-calendar-management-guide)
