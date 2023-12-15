@@ -15,7 +15,8 @@ Instructions on creating, editing, and managing events, with separate steps for 
   1. Access your calendar from the Outlook application.
   2. Click "New Appointment" or "New Meeting."
   3. Add details and save/send your event.
-- **Outlook Online (OWA)**: [Online Instructions](#link-to-microsoft-online-event-creation-instructions)
+     
+- **Outlook Online (OWA)**: [Microsoft: User Training - Schedule events in Outlook on the Web](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-on-the-web-95304ab3-9596-46b8-bd8b-2d0532404d6b)
   1. Open the Outlook Web App and go to the calendar.
   2. Choose "+ New Event."
   3. Fill in the details and click "Save" or "Send."
