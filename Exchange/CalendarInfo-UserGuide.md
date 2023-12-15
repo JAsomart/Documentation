@@ -26,8 +26,8 @@ Instructions on creating, editing, and managing events, with separate steps for 
 - **Outlook Online (OWA)**: [Microsoft: User Training - Modify events in Outlook on the Web](https://support.microsoft.com/en-us/office/create-modify-or-delete-a-meeting-request-or-appointment-in-outlook-on-the-web-6283f744-4ce1-470e-9d6b-96fa94e52996#:~:text=Modify%20a%20meeting%20or%20appointment%3A%201%20At%20the,Send%20if%20this%20is%20a%20meeting%20with%20attendees.)
 
 ### Deleting an Event
-- **Outlook for Desktop**: [Desktop Deletion Instructions](#link-to-microsoft-desktop-event-deletion-instructions)
-- **Outlook Online (OWA)**: [Online Deletion Instructions](https://support.microsoft.com/en-us/office/create-modify-or-delete-a-meeting-request-or-appointment-in-outlook-on-the-web-6283f744-4ce1-470e-9d6b-96fa94e52996)
+- **Outlook for Desktop**: [Microsoft: User Training - Delete events in Outlook for Windows](https://support.microsoft.com/en-us/office/delete-an-appointment-or-a-meeting-2703bfdb-9a07-4396-be3b-a9f79438455b#:~:text=1%20At%20the%20bottom%20of%20the%20screen%2C%20click,choose%20to%20delete%20the%20Occurrence%20or%20the%20Series.)
+- **Outlook Online (OWA)**: [Microsoft: User Training - Delete events in Outlook on the Web](https://support.microsoft.com/en-us/office/create-modify-or-delete-a-meeting-request-or-appointment-in-outlook-on-the-web-6283f744-4ce1-470e-9d6b-96fa94e52996)
 
 ### Managing Time Zones
 - **Outlook for Desktop and OWA**: [Time Zone Management Instructions](#link-to-microsoft-time-zone-management-instructions)
