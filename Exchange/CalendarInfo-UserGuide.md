@@ -30,7 +30,7 @@ Instructions on creating, editing, and managing events, with separate steps for 
 - **Outlook Online (OWA)**: [Microsoft: User Training - Delete events in Outlook on the Web](https://support.microsoft.com/en-us/office/create-modify-or-delete-a-meeting-request-or-appointment-in-outlook-on-the-web-6283f744-4ce1-470e-9d6b-96fa94e52996)
 
 ### Managing Time Zones
-- **Outlook for Desktop and OWA**: [Time Zone Management Instructions](#link-to-microsoft-time-zone-management-instructions)
+- **Outlook for Desktop and OWA**: [Microsoft: User Training: Time Zone Management - All Platforms](https://support.microsoft.com/en-us/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04#ID0EBBD=Windows_(newer_versions))
 
 ## Meeting Scheduling
 Guidance on scheduling meetings, inviting attendees, booking rooms/resources, and using the Scheduling Assistant.
