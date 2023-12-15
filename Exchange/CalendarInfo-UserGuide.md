@@ -58,10 +58,34 @@ How to share your calendar and set up permissions, with distinct steps for each 
 - **Outlook for Desktop**: [Delegate Access Instructions](#link-to-microsoft-delegate-access-instructions)
 
 ## Best Practices for Users
-- [Best Practices Guide](#link-to-microsoft-best-practices-guide)
+Effective use of the Exchange Online Calendar involves following certain best practices to ensure efficient time management and collaboration.
+
+### Efficient Meeting Scheduling
+- **Plan Ahead:** Schedule meetings well in advance to accommodate the availability of all participants. [Meeting Scheduling Tips](#link-to-microsoft-meeting-scheduling-tips)
+- **Clear Agendas:** Include a detailed agenda in meeting invites to ensure productive meetings. [Effective Agenda Setting](#link-to-microsoft-effective-agenda-setting)
+- **Consider Time Zones:** Be mindful of the different time zones of attendees when scheduling meetings. [Time Zone Management](#link-to-microsoft-time-zone-management)
+
+### Effective Calendar Sharing
+- **Selective Sharing:** Share only necessary details of your calendar to maintain privacy and confidentiality. [Calendar Sharing Best Practices](#link-to-microsoft-calendar-sharing-best-practices)
+- **Regular Permission Reviews:** Periodically review and adjust who has access to your calendar and their permission levels. [Managing Calendar Permissions](#link-to-microsoft-managing-calendar-permissions)
+
+### General Calendar Management
+- **Update Regularly:** Keep your calendar up-to-date to accurately reflect your availability. [Calendar Management Guide](#link-to-microsoft-calendar-management-guide)
+- **Use of Reminders:** Set reminders for important meetings and tasks to stay organized. [Setting Up Reminders](#link-to-microsoft-setting-up-reminders)
+
+[View Complete Best Practices Guide](#link-to-microsoft-best-practices-guide)
 
 ## Items IT Can't and Won't Support
-- [IT Support Limitations](#link-to-microsoft-it-support-limitations)
+There are certain limitations to what an IT department can provide in terms of support for Exchange Online Calendar.
+
+### Known Limitations
+- **Orphaned Meetings:** IT cannot reassign meetings if the organizer leaves the organization without updating the event. [Orphaned Meeting Policy](#link-to-microsoft-orphaned-meeting-policy)
+- **Deleted Items Recovery:** IT has limited ability to recover deleted calendar items. [Deleted Items Recovery Limitations](#link-to-microsoft-deleted-items-recovery-limitations)
+- **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices may be limited. [Device Sync Policy](#link-to-microsoft-device-sync-policy)
+- **Third-Party Integration Issues:** Problems specific to third-party applications integrated with Exchange Online might not be supported by IT. [Third-Party Integration Support](#link-to-microsoft-third-party-integration-support)
+- **Customization Restrictions:** Assistance with extensive customization of the Outlook interface may be limited. [Customization Support Limitations](#link-to-microsoft-customization-support-limitations)
+
+[View Full IT Support Limitations](#link-to-microsoft-it-support-limitations)
 
 ## Conclusion
 For additional support and latest updates, always refer to the [Microsoft 365 support page](https://support.microsoft.com/office).
