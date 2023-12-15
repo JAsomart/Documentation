@@ -1,4 +1,4 @@
-# In-Depth Guide: Event Creation and Management for Exchange Online (Outlook) User Calendar
+# In-Depth Guide: Event Creation and Management for Exchange Online User Calendars
 
 ## Overview
 This guide expands on the "Event Creation and Management" section from the main Exchange Online User Calendar documentation. It provides step-by-step instructions on creating, editing, managing, and importantly, properly deleting events in your Exchange Online Calendar.
