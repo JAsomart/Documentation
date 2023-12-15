@@ -81,7 +81,7 @@ Effective use of an Outlook Calendar involves following best practices to ensure
 
 - Outlook does not provide a way to change a meeting organizer. To change the meeting organizer of a recurring meeting, end the recurring meeting. To do this, set an earlier end date and send the update to all attendees. After you complete this step, the new organizer should create a new recurring meeting.
 
-  -For more information about setting an earlier end date, see [Cancel a meeting](https://support.microsoft.com/en-us/office/cancel-a-meeting-9e1eac0d-0462-4a01-ad0b-7d0543819562)
+  - For more information about setting an earlier end date, see [Cancel a meeting](https://support.microsoft.com/en-us/office/cancel-a-meeting-9e1eac0d-0462-4a01-ad0b-7d0543819562)
 
 ### Avoid using a recurring meeting to share attachments
 
@@ -96,13 +96,31 @@ Effective use of an Outlook Calendar involves following best practices to ensure
 - For more information about how to move meetings that you organized to another calendar folder, see:
 
   - How to move Outlook meetings without losing the option to "[Send Update](https://learn.microsoft.com/en-US/outlook/troubleshoot/calendaring/send-update-missing-copy-meeting)"
-  - Please note, RCIT cannot restore events which have been copied, and this should be avoided when possible.
+  - Please note, RCIT cannot restore events which have been copied, and this should be avoided when possible. Performing this is at your own risk.
 
-### General Calendar Management
-- **Update Regularly:** Keep your calendar up-to-date to accurately reflect your availability. [Calendar Management Guide](#link-to-microsoft-calendar-management-guide)
-- **Use of Reminders:** Set reminders for important meetings and tasks to stay organized. [Setting Up Reminders](#link-to-microsoft-setting-up-reminders)
+### Maintain add-ins that integrate with Outlook
 
-[View Complete Best Practices Guide](#link-to-microsoft-best-practices-guide)
+- Most, if not all, Outlook add-ins access Outlook data. An add-in may change an Outlook item that you are editing at the same time, whether in Outlook or on another device. This can introduce conflicts. To minimize the likelihood, make sure to install the latest updates for any add-ins or programs that integrate with Outlook. Uninstall or disable any of these programs and add-ins that you do not use or that do not need to integrate with Outlook.
+
+  - Note: In some cases, multiple Outlook clients and devices may modify items at the same time, which can introduce conflicts. To minimize the likelihood, do not process the same item on two or more clients or devices within a relatively short period of time.
+
+### Limit the number of Calendar Delegates
+
+Outlook does not limit the number of delegates that you can add. However, we recommend that you only grant Editor permissions to one (1) delegate. This allows you to track when and how a meeting was processed. Considering the fact that a delegate can use multiple devices to access your data, having many delegates with Editor permissions makes it very difficult to determine why meetings are missing or out of date.
+
+Even if you only grant Editor permissions to one delegate, avoid adding a large number of delegates with Reviewer or Contributor permissions. This is because adding large numbers of delegates may exhaust other resources. For example, the size limit for rule data may be reached. When you add a delegate, various changes take place:
+
+- Outlook applies permissions to relevant folders.
+- The PublicDelegates Active Directory attribute is updated to add "Send on Behalf of" permissions to the delegate.
+- Outlook adds the delegate to a forward rule on the manager's mailbox. This forwards meeting requests to the delegate.
+- Outlook saves additional delegate information in the manager's mailbox.
+
+Each of these component areas may have different limits. Nearing these limits can affect performance and stability. RCIT cannot change, fix, or resolve problem arisen from using calendars beyond recommended limitations, as these are product limitations at the Microsoft level.
+
+Additional Notes: 
+
+  - During development and testing of modern Outlook calendar functionality, Microsoft used a maximum of four (4) delegates. RCIT does not recommend or support going beyond this limit.
+  - If a delegate with Editor permissions must be replaced either temporarily or indefinitely, change the permissions from Editor to Reviewer or none. Then, grant Editor permissions to the new or backup delegate.
 
 ## Items IT Can't and Won't Support
 There are certain limitations to what an IT department can provide in terms of support for Exchange Online Calendar.
