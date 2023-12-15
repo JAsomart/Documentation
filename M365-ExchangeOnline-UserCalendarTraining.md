@@ -1,11 +1,12 @@
 # User Guide: Exchange Online User Calendar
 
 ## Introduction
-This document provides an overview of the capabilities and limitations of the Exchange Online user calendar. As part of Microsoft 365, Exchange Online offers a comprehensive calendaring system essential for scheduling and managing appointments, meetings, and events.
+This document provides an overview of the capabilities and limitations of the Exchange Online user calendar. As part of Microsoft 365, Exchange Online offers a comprehensive calendaring system essential for scheduling and managing appointments, meetings, and events. For detailed instructions, limitations and best practices per topic, click on any of the links below to be redirected to related documentation.
 
 ## Capabilities
 
-### 1. Event Creation and Management
+### 1. [Event Creation and Management](URL_OF_SUB_DOCUMENT)
+
 - **Create, Edit, and Delete Events:** Users can create single or recurring events, edit their details, or delete them.
 - **Time Zones:** Supports scheduling events in multiple time zones.
 
