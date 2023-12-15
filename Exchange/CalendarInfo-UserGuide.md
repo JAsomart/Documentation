@@ -56,9 +56,10 @@ How to share your calendar and set up permissions, with distinct steps for each 
     
     - If permissions are changed by a calendar owner at a future time, or the individual already has an active connection to a calendar being re-shared with them in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
 
-## User Calendar Best Practices -  [Microsoft Calendar Best Practices](https://support.microsoft.com/en-us/office/best-practices-for-organizations-when-using-the-outlook-calendar-d93f72d3-2361-4e0d-8d6a-5c4939c17f39)
+## Calendar Best Practices 
 
 Effective use of an Outlook Calendar involves following best practices to ensure efficient time management and collaboration.
+[Microsoft Best Practices](https://support.microsoft.com/en-us/office/best-practices-for-organizations-when-using-the-outlook-calendar-d93f72d3-2361-4e0d-8d6a-5c4939c17f39)
 
 ### Process all meeting requests and cancellations
 
