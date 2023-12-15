@@ -1,4 +1,4 @@
-# User Guide: Exchange Online User Calendar
+# User Guide: Exchange Online User Calendar Information
 
 ## Introduction
 This document provides an overview of the capabilities and limitations of the Exchange Online user calendar. As part of Microsoft 365, Exchange Online offers a comprehensive calendaring system essential for scheduling and managing appointments, meetings, and events. For detailed instructions, limitations and best practices per topic, click on any of the links below to be redirected to related documentation.
