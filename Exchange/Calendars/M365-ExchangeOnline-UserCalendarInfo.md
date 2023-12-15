@@ -11,7 +11,7 @@ Click on any of the links below for further documentation and best practices on 
 - **Create, Edit, and Delete Events:** Users can create single or recurring events, edit their details, or delete them.
 - **Time Zones:** Supports scheduling events in multiple time zones.
 
-### 2. Meeting Scheduling
+### 2. [Meeting Scheduling](https://github.com/JAsomart/Documentation/blob/08a6b14f43b11456e602a05b8ef162e192007681/Exchange/Calendars/M365-ExchangeOnline-UserCalendarManagement.md) 
 - **Invite Attendees:** Users can invite others to meetings, including external guests.
 - **Room and Resource Booking:** Facilities to book rooms and resources (like projectors) for meetings.
 - **Find a Suitable Time:** The 'Scheduling Assistant' helps in finding a time that suits all attendees.
