@@ -9,7 +9,7 @@ This document provides an overview of the capabilities and limitations of the Ex
 - **Create, Edit, and Delete Events:** Users can create single or recurring events, edit their details, or delete them.
 - **Time Zones:** Supports scheduling events in multiple time zones.
 
-More information on Event Management: [Event Creation and Management](https://outlook.office.com)
+  [More information on Event Creation and Management](https://github.com/JAsomart/Documentation/blob/08a6b14f43b11456e602a05b8ef162e192007681/Exchange/Calendars/M365-ExchangeOnline-UserCalendarManagement.md)
 
 ### 2. Meeting Scheduling
 - **Invite Attendees:** Users can invite others to meetings, including external guests.
