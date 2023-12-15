@@ -4,10 +4,12 @@
 This document provides an overview of the capabilities and limitations of the Exchange Online user calendar. As part of Microsoft 365, Exchange Online offers a comprehensive calendaring system essential for scheduling and managing appointments, meetings, and events.
 ## Capabilities
 
-### 1. Event Creation and Management
+### 1. Event Creation and Management 
 
 - **Create, Edit, and Delete Events:** Users can create single or recurring events, edit their details, or delete them.
 - **Time Zones:** Supports scheduling events in multiple time zones.
+
+More information on Event Management: [Event Creation and Management](https://outlook.office.com)
 
 ### 2. Meeting Scheduling
 - **Invite Attendees:** Users can invite others to meetings, including external guests.
