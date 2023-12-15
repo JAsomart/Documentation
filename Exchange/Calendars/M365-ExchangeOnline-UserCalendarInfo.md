@@ -5,7 +5,7 @@ This document provides an overview of the capabilities and limitations of the Ex
 
 ## Capabilities
 
-### 1. [Event Creation and Management](URL_OF_SUB_DOCUMENT)
+### 1. Event Creation and Management
 
 - **Create, Edit, and Delete Events:** Users can create single or recurring events, edit their details, or delete them.
 - **Time Zones:** Supports scheduling events in multiple time zones.
