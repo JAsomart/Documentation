@@ -4,7 +4,7 @@
 1. [Event Creation and Management](#event-creation-and-management)
 2. [Meeting Scheduling](#meeting-scheduling)
 3. [Sharing and Permissions](#sharing-and-permissions)
-4. [Best Practices for Users](#best-practices-for-users)
+4. [User Calendar Best Practices](#User-calendar-best-practices)
 5. [Items IT Can't and Won't Support](#items-it-cant-and-wont-support)
 
 ## Event Creation and Management
