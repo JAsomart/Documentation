@@ -11,7 +11,7 @@
 Instructions on creating, editing, and managing events, with separate steps for Outlook for Desktop and Outlook Online (OWA).
 
 ### Creating an Event
-- **Outlook for Desktop**: [Desktop Instructions](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
+- **Outlook for Desktop**: [Microsoft: User Training - Schedule events in Outlook for Windows](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
   1. Access your calendar from the Outlook application.
   2. Click "New Appointment" or "New Meeting."
   3. Add details and save/send your event.
