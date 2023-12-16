@@ -5,21 +5,14 @@
 2. [Meeting Scheduling](#meeting-scheduling)
 3. [Sharing and Permissions](#sharing-and-permissions)
 4. [Calendar Best Practices](#Calendar-Best-Practices)
-5. [Items IT Can't and Won't Support](#items-it-cant-and-wont-support)
+5. [Limitations and Unsupported Items](#Limitations-and-unsupported-items)
 
 ## <ins>Event Creation and Management</ins>
 Instructions on creating, editing, and managing events, with separate steps for Outlook for Desktop and Outlook on the Web (OWA).
 
 ### Creating an Event
 - **Outlook for Desktop**: [Microsoft: User Training - Schedule events in Outlook for Windows](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-for-windows-dee84520-3c7f-45a1-990b-98bbeca7ec31)
-  1. Access your calendar from the Outlook application.
-  2. Click "New Appointment" or "New Meeting."
-  3. Add details and save/send your event.
-     
 - **Outlook Online (OWA)**: [Microsoft: User Training - Schedule events in Outlook on the Web](https://support.microsoft.com/en-us/office/schedule-events-in-outlook-on-the-web-95304ab3-9596-46b8-bd8b-2d0532404d6b)
-  1. Open the Outlook Web App and go to the calendar.
-  2. Choose "+ New Event."
-  3. Fill in the details and click "Save" or "Send."
 
 ### Editing an Event
 - **Outlook for Desktop**: [Microsoft: User Training - Modify events in Outlook for Windows](https://support.microsoft.com/en-us/office/change-an-appointment-meeting-or-event-in-outlook-29b44f7a-8938-4b99-b98d-3efcf45f7613#ID0EBBD=Classic_Outlook)
@@ -126,7 +119,7 @@ Additional Notes:
 ## Unsupported Calendar Items
 Current limitations regarding RCIT support for Outlook calendar functionality and behavior.
 
-### Limitations and unsupported items
+### Limitations and Unsupported Items
 - **Orphaned Meetings:** RCIT cannot reassign, recover, or restore functionality to meetings or organizers. 
 - **Deleted Items Recovery:** RCIT has very limited ability to recover deleted calendar items. 
 - **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices is not supported.
