@@ -58,8 +58,8 @@ Effective use of an Outlook Calendar involves following best practices to ensure
 
 - Although you can delete a meeting request directly from your Inbox, you should properly process the meeting request by either accepting or declining it. Always use the Remove from Calendar command to process meeting cancellations from your Inbox. Avoid processing meetings directly from the Calendar module. Failure to do this can result in broken event functionality, that both Microsoft and RCIT will be unable to restore, as this is no current Microsoft support in the product for this, at the time of this writing.
 
-- In the event where a calendar meeting becomes "orphaned" from the original organizer, you will need to recreate the event and re-invite all original participants.
-  - Prior participants will also need to manually remove the prior version of orphaned meeting manually. 
+- In the event where a calendar becomes unmanagable by its original organizer, you will need to recreate the event and re-invite all original participants.
+  - Prior participants will also need to manually remove the prior version of the meeting manually. 
 
 ### Working with recurring meetings
 
@@ -120,7 +120,7 @@ Additional Notes:
 Current limitations regarding RCIT support for Outlook calendar functionality and behavior.
 
 ### Limitations and Unsupported Items
-- **Orphaned Meetings:** RCIT cannot reassign, recover, or restore functionality to meetings or organizers. 
+- **Calendar Events and Meetings:** RCIT cannot reassign, recover, or restore functionality to events, meetings, or organizers. 
 - **Deleted Items Recovery:** RCIT has very limited ability to recover deleted calendar items. 
 - **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices is not supported.
 - **Customization Restrictions:** RCIT only supports default interface and functionality for the base Outlook Client experience.
