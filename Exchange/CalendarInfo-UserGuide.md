@@ -1,13 +1,13 @@
 # M365 - User Guide for Outlook Calendar Usage and Best Practices
 
-## Table of Contents
+## <ins>Table of Contents</ins>
 1. [Event Creation and Management](#event-creation-and-management)
 2. [Meeting Scheduling](#meeting-scheduling)
 3. [Sharing and Permissions](#sharing-and-permissions)
-4. [User Calendar Best Practices](#User-Calendar-Best-Practices)
+4. [Calendar Best Practices](#Calendar-Best-Practices)
 5. [Items IT Can't and Won't Support](#items-it-cant-and-wont-support)
 
-## Event Creation and Management
+## <ins>Event Creation and Management</ins>
 Instructions on creating, editing, and managing events, with separate steps for Outlook for Desktop and Outlook on the Web (OWA).
 
 ### Creating an Event
@@ -32,7 +32,7 @@ Instructions on creating, editing, and managing events, with separate steps for 
 ### Managing Time Zones
 - **Outlook for Desktop and OWA**: [Microsoft: User Training: Time Zone Management - All Platforms](https://support.microsoft.com/en-us/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04#ID0EBBD=Windows_(newer_versions))
 
-## Meeting Scheduling
+## <ins>Meeting Scheduling</ins>
 Guidance on scheduling meetings, inviting attendees, and booking rooms/resources.
 
 ### Inviting Attendees
@@ -42,7 +42,7 @@ Guidance on scheduling meetings, inviting attendees, and booking rooms/resources
 ### Room and Resource Booking
 - **Outlook for Desktop and OWA**: [Microsoft: User Training - Scheduling Assistant and Room Finder for meetings in Outlook - All Platforms](https://support.microsoft.com/en-us/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
 
-## Sharing and Permissions
+## <ins>Sharing and Permissions</ins>
 How to share your calendar and set up permissions, with distinct steps for each platform.
 
 ### Sharing Your Calendar
@@ -56,10 +56,10 @@ How to share your calendar and set up permissions, with distinct steps for each 
     
     - If permissions are changed by a calendar owner at a future time, or the individual already has an active connection to a calendar being re-shared with them in their Outlook client, it is recommended that the recipient remove the prior version of the calendar from their Outlook client to ensure permissions are appropriately updated. Failure to do this can result in users receiving access related errors to the calendar.
 
-## Calendar Best Practices 
+## <ins>Calendar Best Practices</ins>
 
-Effective use of an Outlook Calendar involves following best practices to ensure efficient time management and collaboration.
-[Microsoft Best Practices](https://support.microsoft.com/en-us/office/best-practices-for-organizations-when-using-the-outlook-calendar-d93f72d3-2361-4e0d-8d6a-5c4939c17f39)
+Effective use of an Outlook Calendar involves following best practices to ensure proper functionality.
+- Source: [Microsoft Best Practices](https://support.microsoft.com/en-us/office/best-practices-for-organizations-when-using-the-outlook-calendar-d93f72d3-2361-4e0d-8d6a-5c4939c17f39)
 
 ### Process all meeting requests and cancellations
 
