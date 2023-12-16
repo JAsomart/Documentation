@@ -125,7 +125,7 @@ Current limitations regarding RCIT support for Outlook calendar functionality an
 - **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices is not supported.
 - **Customization Restrictions:** RCIT only supports default interface and functionality for the base Outlook Client experience.
 
-RCIT cannot support the above items due to the absence of administrative support within the product itself. These items are behaving as designed and supported by Microsoft at the current time of writing this document.
+RCIT cannot support the above items due to the absence of administrative support within the product itself. These items are behaving as designed by Microsoft at the current time of writing this document. Should we have the ability to provide more robust service regarding these items in the future, we will update this document to reflect this.
 
 ## Additonal Support
 For additional support and latest updates, always refer to the [Microsoft 365 support page](https://support.microsoft.com/office).
