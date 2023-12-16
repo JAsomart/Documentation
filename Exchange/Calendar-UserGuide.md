@@ -124,15 +124,15 @@ Additional Notes:
   - If a delegate with Editor permissions must be replaced either temporarily or indefinitely, change the permissions from Editor to Reviewer or none. Then, grant Editor permissions to the new or backup delegate.
 
 ## Unsupported Calendar Items
-There are limitations for what RCIT can provide in terms of support for Outlook calendar functionality.
+Current limitations regarding RCIT support for Outlook calendar functionality and behavior.
 
 ### Limitations and unsupported items
 - **Orphaned Meetings:** RCIT cannot reassign, recover, or restore functionality to meetings or organizers. 
 - **Deleted Items Recovery:** RCIT has very limited ability to recover deleted calendar items. 
 - **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices is not supported.
-- **Customization Restrictions:** RCIT only supports default interface and functionality for the base Outlook Client experience. 
+- **Customization Restrictions:** RCIT only supports default interface and functionality for the base Outlook Client experience.
 
-RCIT cannot support the above items due to the absence or support of each listed support within the Microsoft product. These items are behaving as designed by Microsoft at the current time of writing this document.
+RCIT cannot support the above items due to the absence of administrative support within the product itself. These items are behaving as designed and supported by Microsoft at the current time of writing this document.
 
 ## Additonal Support
 For additional support and latest updates, always refer to the [Microsoft 365 support page](https://support.microsoft.com/office).
