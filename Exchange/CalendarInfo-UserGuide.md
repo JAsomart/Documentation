@@ -123,17 +123,16 @@ Additional Notes:
   - During development and testing of modern Outlook calendar functionality, Microsoft used a maximum of four (4) delegates. RCIT does not recommend or support going beyond this limit.
   - If a delegate with Editor permissions must be replaced either temporarily or indefinitely, change the permissions from Editor to Reviewer or none. Then, grant Editor permissions to the new or backup delegate.
 
-## Items IT Can't and Won't Support
-There are certain limitations to what an IT department can provide in terms of support for Exchange Online Calendar.
+## Unsupported Calendar Items
+There are limitations for what RCIT can provide in terms of support for Outlook calendar functionality.
 
-### Known Limitations
-- **Orphaned Meetings:** IT cannot reassign meetings if the organizer leaves the organization without updating the event. [Orphaned Meeting Policy](#link-to-microsoft-orphaned-meeting-policy)
-- **Deleted Items Recovery:** IT has limited ability to recover deleted calendar items. [Deleted Items Recovery Limitations](#link-to-microsoft-deleted-items-recovery-limitations)
-- **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices may be limited. [Device Sync Policy](#link-to-microsoft-device-sync-policy)
-- **Third-Party Integration Issues:** Problems specific to third-party applications integrated with Exchange Online might not be supported by IT. [Third-Party Integration Support](#link-to-microsoft-third-party-integration-support)
-- **Customization Restrictions:** Assistance with extensive customization of the Outlook interface may be limited. [Customization Support Limitations](#link-to-microsoft-customization-support-limitations)
+### Limitations and unsupported items
+- **Orphaned Meetings:** RCIT cannot reassign, recover, or restore functionality to meetings or organizers. 
+- **Deleted Items Recovery:** RCIT has very limited ability to recover deleted calendar items. 
+- **Personal Device Synchronization:** Support for syncing issues on personal, non-corporate devices is not supported.
+- **Customization Restrictions:** RCIT only supports default interface and functionality for the base Outlook Client experience. 
 
-[View Full IT Support Limitations](#link-to-microsoft-it-support-limitations)
+RCIT cannot support the above items due to the absence or support of each listed support within the Microsoft product. These items are behaving as designed by Microsoft at the current time of writing this document.
 
-## Conclusion
+## Additonal Support
 For additional support and latest updates, always refer to the [Microsoft 365 support page](https://support.microsoft.com/office).
