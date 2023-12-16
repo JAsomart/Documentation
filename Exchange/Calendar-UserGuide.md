@@ -36,7 +36,7 @@ Guidance on scheduling meetings, inviting attendees, and booking rooms/resources
 - **Outlook for Desktop and OWA**: [Microsoft: User Training - Scheduling Assistant and Room Finder for meetings in Outlook - All Platforms](https://support.microsoft.com/en-us/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
 
 ## <ins>Sharing and Permissions</ins>
-How to share your calendar and set up permissions, with distinct steps for each platform.
+How to share your calendar and set up permissions, with steps for each platform.
 
 ### Sharing Your Calendar
 - **Outlook for Desktop**: [Microsoft: User Training - Sharing your Calendar in Outlook for Windows](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b#:~:text=Share%20your%20calendar%201%20Select%20Calendar%20%3E%20Share,the%20access%20level%20to%20give%2C%20and%20select%20OK.)
