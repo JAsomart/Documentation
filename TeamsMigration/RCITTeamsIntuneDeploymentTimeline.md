@@ -12,12 +12,12 @@ This document provides a detailed guide for IT Systems Administrators and Help D
 
 ## Pre-Migration Phase
 
-### Assessment and Inventory (Week 1 - January 22nd through January 26th)
+### Assessment and Inventory (Week 1: January 22nd through January 26th)
 
 - **Evaluate Customization Requirements**: Identify any specific configurations or customizations needed in the new Teams version.
 - **Teams Client Versions**: Obtain endpoint version current adoption rates to determine further rollout strategy.
 
-### User Communication and Training (Week 2 - January 29th through Febuary 2nd)
+### User Communication and Training (Week 2: January 29th through Febuary 2nd)
 
 - **Announce Migration Plan**: Inform RCIT staff about the migration timeline and what to expect.
 - **Teams Warning Banner**: Starting on February 1 2024, any classic Teams users who haven’t updated to new Teams will begin seeing an informational banner to remind them about the timeline for the auto update. This banner will appear in the main Teams client window at the top of the page (underneath the main bar).
@@ -26,18 +26,18 @@ This document provides a detailed guide for IT Systems Administrators and Help D
 
 ## Migration Phase
 
-### Initial Setup and Pilot Testing (Week 3 - Febuary 5th through Febuary 9th)
+### Initial Setup and Pilot Testing (Week 3: Febuary 5th through Febuary 9th)
 
 - **Set up Intune for Teams Deployment**: Configure Microsoft Intune for opt in deployment of new Teams version.
 - **Conduct Pilot Migration**: Migrate a small, controlled group using Intune and gather feedback.
 - **Adjust Migration Strategy**: Make necessary adjustments based on pilot feedback.
 
-### Optional Migration (Week 4-7 - Febuary 12th through March 8th)
+### Optional Migration (Week 4-7: Febuary 12th through March 8th)
 
 - **Intune**: Deploy "Opt-In" New Teams Version**: Use Microsoft Intune to deploy the new version of Teams to all users.
 - **Noficiation**: Notification sent to BRM's and Agencies informing them of the required change and cut-off dates
 
-### Forced Migration (Week 8, March 11th, 2024)
+### Forced Migration (Week 8: March 11th, 2024)
 
 - **Intune**: Deploy Mandatory installation of New Teams Version to all users.
 - **Teams Admin**: Enforce usage of new Teams via admin center 
@@ -50,7 +50,7 @@ This document provides a detailed guide for IT Systems Administrators and Help D
 - **Provide Technical Support**: Offer assistance for users encountering problems.
 - **Final Window for Update**: Final two weeks for any Classic Teams user to update, or any unsupported legacy features which are still needed by consumers to either gain support, or have business cases readdressed elsewhere.
 
-### Review and Documentation Update - Enforce version compliance (March 31st, 2024)
+### Review and Documentation Update - Enforced version compliance (March 31st, 2024)
 
 - **Update IT Documentation**: Reflect changes in internal documentation.
 - **Forced Update Compliance**: Microsoft as of this date will display a message stating that Classic Teams is no longer availible for use. Clients running this build will be required to update, and the application will attempt to uninstall and install the modern build.
@@ -58,5 +58,5 @@ This document provides a detailed guide for IT Systems Administrators and Help D
 
 ## Conclusion
 
-This plan aims for a seamless transition to the new Microsoft Teams environment using Microsoft Intune, prioritizing minimal disruption and user adaptation. 
+This plan aims for a structured transition to the new Microsoft Teams environment using Microsoft Intune, prioritizing minimal disruption and user adaptation. 
 Conceptually this allows us to begin migration prior to March 2024, and allows us the ability to find resolutions for any classic to modern Teams client feature parity items prior to the March deadline for unexpected items.
