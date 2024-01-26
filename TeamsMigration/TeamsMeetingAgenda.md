@@ -1,9 +1,9 @@
 # Microsoft Teams Classic to Modern Rollout Agenda
 
 ## Introduction
-- **Overview of Rollout Plan**
-  
-  - Objective: Transition from Microsoft Teams Classic to Modern
+- **Overview of Rollout Plan **
+
+  - Objective: Transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build
   - Timeline: Expected deployment dates and dates of importance
   - Explanation of support roles and responsibilities within RCIT groups
   - Explanation of the required change, with information regarding the benefits and shortcomings of the new modern Teams client
@@ -36,9 +36,9 @@
 
 - **Responsibilities**
   - Communicate Intune deployment information to end users receiving update via Intune instead of in-place upgrade.
-  - Providing support for device-related installation inquiries during the transition
-  - Provide updated guidance to Help Desk and Field Services on any changes to endpoint installion process (Configuration Manager/Intune)
-  - Collaborate with M365 Services teams for necessary adjustments or changes for Tenant level functionality.
+  - Provide support for device-related installation inquiries during the transition
+  - Provide updated guidance to Help Desk and Field Services on any changes to endpoint installion process for Microsoft Teams (Configuration Manager/Intune)
+  - Collaborate with M365 Services team
  
 ## Part 3: M365 Services Team
 
