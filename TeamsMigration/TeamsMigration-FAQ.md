@@ -7,18 +7,6 @@ After March 31, 2024, if you’re already running on new Teams, there will be no
 
 Users on classic Teams will be automatically updated to the new Teams client. Users won’t be able to switch back to classic Teams after this date, because classic Teams won’t be functional. Microsoft will attempt to uninstall classic Teams.
 
-## June Timeline
-If you're on the June timeline, here are the banner messages you may experience after March 31, 2024:
-
-| Condition for triggering the banner | Banner message | Further information |
-| ----------------------------------- | --------------- | ------------------- |
-| Unsupported Windows operating system | Classic Teams won't be available for use after June 30, 2024. To use the new Teams, update your OS to meet requirements or contact your IT admin. | Prerequisites |
-| Unsupported Mac operating system | Classic Teams won't be available for use after June 30, 2024. To use the new Teams, update your OS to meet requirements or contact your IT admin. | Prerequisites |
-| Unsupported operating system (EDU) | Classic Teams won't be available for use after June 30, 2024. To use the new Teams, update your OS to meet requirements or contact your IT admin. | Prerequisites |
-| Unsupported operating system (Gov) | Classic Teams won't be available for use after June 30, 2024. To use the new Teams, update your OS to meet requirements or contact your IT admin. | Prerequisites |
-| Unsupported OS (VDI) | Classic Teams won't be available for use after June 30, 2024. To use the new Teams, update your OS to meet requirements or contact your IT admin. | Prerequisites |
-| Microsoft cannot update because of policy restrictions (EDU) | Classic Teams won't be available for use after June 30, 2024, and we can't update to the new Teams due to org policy. For more info, contact your IT admin. | Learn more |
-
 ## What Happens If We Can’t Update Users to New Teams
 Once classic Teams is no longer available for you, you're going to see a dialog similar to the one below, and classic Teams won't work for you anymore.
 
