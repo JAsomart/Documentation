@@ -28,59 +28,53 @@
  
 ## Part 2: Client Management Team
 
-- **Device and Software Management**
+- **Support Readiness**
 
-  - Ensuring all devices are compatible with Modern Teams client
-  - Coordinate software deployments
+  - Ensure endpoint devices are compatible with Modern Teams client
+  - Coordinate software deployments to device collections
+  - Update any required device provisioning processes (Imaging, etc.) 
 
 - **Responsibilities**
-  - Communicating Intune deployment to end users for those receiving update via Intune instead of in-place upgrade.
+  - Communicate Intune deployment information to end users receiving update via Intune instead of in-place upgrade.
   - Providing support for device-related installation inquiries during the transition
-
-- **User Engagement and Feedback**
-  - Collaborate with M365 Services teams for necessary adjustments
+  - Provide updated guidance to Help Desk and Field Services on any changes to endpoint installion process (Configuration Manager/Intune)
+  - Collaborate with M365 Services teams for necessary adjustments or changes for Tenant level functionality.
  
 ## Part 3: M365 Services Team
 
-- **Responsibilities**
+- **Support Readiness**
   - Provide communication on rollout phases
   - Provide technical information for assigned tasks to other RCIT Teams
-  - Providing support for device-related inquiries during the transition
+  - Providing support for device and policy related inquiries during the transition
 
-- **Tenant-Level Administration**
+- **Responsibilities**
   - Implement Teams Administrative settings to allow for in-place upgrades
   - Enforce Modern Teams compliance through Teams administrative policy
 
 ## Part 3: Help Desk
 
 - **Support Readiness**
-  - Familiarizing with common issues and resolutions in Teams Modern
+  - Familiarizing with common issues and resolutions in Modern Teams Client
   - Review changes to user experience 
 
 - **Responsibilities**
   - Providing support to end users
   - Escalating complex issues to Client Management for Teams client installation issues
   - Escalating complex issues to M365 Services for Teams client policy issues
-
-- **Documentation and Reporting**
-  - Usage of SNOW for ticket capture.
-  - Proper escalation paths where information is reviewed and verified for accuracy by Help Desk leads prior to escalation to System Adminstrator teams.
+  - Documentation of related issues within Service Now.
 
 ## Part 4: End Users
 
-- **Expectations for End Users**
-  - Understanding the reason for the transition
-  - Participating in training and awareness sessions if needed
+- **Support Readiness**
+  - Provide information for Rivco staff to assist with understanding the reason for the transition
 
 - **Responsibilities**
   - Updating personal devices as required (Selection of the "Try the new Teams" option)
-
-- **Support and Resources**
-  - Utilizing available training materials and help guides
+  - Participate in training (if needed) for Modern Teams functionality changes
   
 ## Closing Session
 
 - **Review and Recap**
-  - Recap the current the rollout process and update channels
+  - Recap current rollout process and update channels
   - Outline post-rollout support structure
-  - Scheduling follow-up meetings to monitor progress and address ongoing needs
+  - Schedule follow-up meeting to monitor progress and address ongoing needs
