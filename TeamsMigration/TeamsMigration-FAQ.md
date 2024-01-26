@@ -41,7 +41,7 @@ After these options are removed, Microsoft will begin moving all users except VD
 - If a user can’t install the new Teams client due to a reason outlined in the table above, such as unsupported OS (including Win 10 LTSC): These users will be allowed to use classic Teams until June 30, 2024 (as per above schedule) to allow for updating operating system to modifying permissions etc. After June 30, 2024, classic Teams won't work.
 
 ### Admins
-- The system requirements for the new Teams client: Prerequisites
+- The system requirements for the new Teams client: [Prerequisites](https://learn.microsoft.com/en-us/microsoftteams/new-teams-deploy-using-policies?tabs=teams-admin-center)
 - When will admins see the new Teams Only policy in their tenant: Upgrade to the new Teams using policies
 - What will happen with the update policies: The update policies may still appear, but they won’t be functional after March 31, 2024.
 - When will classic Teams client stop being installed with M365 apps: This will stop happening on March 31, 2024.
