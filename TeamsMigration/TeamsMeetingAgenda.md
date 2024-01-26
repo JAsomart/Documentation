@@ -1,9 +1,9 @@
 # Microsoft Teams Classic to Modern Rollout Agenda
 
-## Introduction
-- **Overview of Rollout Plan **
+Objective: Transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build prior to March 31st, 2024
 
-  - Objective: Transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build
+## Introduction
+- **Overview of Rollout Plan**
   - Timeline: Expected deployment dates and dates of importance
   - Explanation of support roles and responsibilities within RCIT groups
   - Explanation of the required change, with information regarding the benefits and shortcomings of the new modern Teams client
@@ -13,7 +13,7 @@
   
   - Review Modern Teams client compatibility items for endpoint devices
   - Identify potential challenges and solutions
-  - Identify pilot users within RCIT
+  - All RCIT staff will be included in pilot phase
 
 - **Responsibilities**
   
