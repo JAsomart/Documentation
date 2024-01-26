@@ -1,6 +1,6 @@
 # Microsoft Teams Classic to Modern Rollout Agenda
 
-## Introduction Session
+## Introduction
 - **Overview of Rollout Plan**
   - Objective: Transition from Microsoft Teams Classic to Modern
   - Timeline
