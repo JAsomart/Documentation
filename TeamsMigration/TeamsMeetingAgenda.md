@@ -3,7 +3,7 @@
 ## Introduction
 - **Overview of Rollout Plan**
   - Objective: Transition from Microsoft Teams Classic to Modern
-  - Timeline
+  - Timeline: Expected deployment dates
   - Explanation of change with roles and responsibilities for RCIT groups
   - Explanation of benefits and shortcomings of the new modern Teams client
 
