@@ -3,27 +3,48 @@
 # Table of Contents
 1. [Summary](#summary)
 2. [Introduction - Microsoft Teams Classic Client End of Availability](#introduction---microsoft-teams-classic-client-end-of-availability)
-3. [System Administrators](#system-administrators)
-4. [Client Management Team](#client-management-team)
-5. [M365 Services Team](#m365-services-team)
-6. [Help Desk](#help-desk)
-7. [End Users](#end-users)
-8. [Closing Session](#closing-session)
+3. [Pre-Migration Phase](#pre-migration-phase)
+4. [Migration Phase](#migration-phase)
+5. [System Administrators](#system-administrators)
+6. [Client Management Team](#client-management-team)
+7. [M365 Services Team](#m365-services-team)
+8. [Help Desk](#help-desk)
+9. [End Users](#end-users)
+10. [Closing Session](#closing-session)
 
-## Summary
-Microsoft Teams Classic Client is quickly approaching product end of life. 
+## Summary: [Microsoft Teams Classic Client End of Availability](https://learn.microsoft.com/en-us/microsoftteams/teams-classic-client-end-of-availability)
+Microsoft Teams Classic Client is approaching product end of life. 
 
-All clients who have not upgraded to the modern build, will need to do so prior to March 31st, 2024. Clients not in compliance will experience a forced update through Microsoft.
-The intent of this meeting is to inform all parties of our intent to transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build prior to March 31st, 2024.
+Endpoint devices which have not upgraded from the Microsoft Teams Classic Client to the new modern Teams client, will be required to do so prior to March 31st, 2024. Clients not in compliance will experience a forced update through Microsoft on March 31st, 2024.
+The intent of this meeting is to inform all parties of our intent to transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build prior to March 31st, 2024, and of any other work which may need to be completed by RCIT groups.
 
-## Introduction - [Microsoft Teams Classic Client End of Availability](https://learn.microsoft.com/en-us/microsoftteams/teams-classic-client-end-of-availability)
-- **Overview of Rollout Plan**
-  - Timeline: Expected deployment dates and dates of importance
-  - Explanation of support roles and responsibilities within RCIT groups
-  - Explanation of the required change, with information regarding the benefits and shortcomings of the new modern Teams client
-    - Starting on February 1, 2024, any classic Teams users who haven’t updated to new Teams will begin seeing an informational banner to remind them about the timeline for the auto update. This banner will appear in the main Teams client window at the top of the page (underneath the main bar).
-    - On March 31, 2024, a new Teams client will be rolled out for users who are still on classic Teams, installing the new Teams client for them and uninstalling the classic Teams client. After this time, classic Teams will be unavailable.
-    - After March 31, 2024, if you’re already running on new Teams, there will be no change in behavior. Your Teams will continue working as expected. Users on classic Teams will be automatically updated to the new Teams client. Users won’t be able to switch back to classic Teams after this date, because classic Teams won’t be functional. Microsoft will attempt to uninstall classic Teams.
+Using the table of contents above, we have attempted to narrow the scope of several actionable items to specific groups for ease of consumption. Our current Pre-Migration and Migartion Phase timeline dates are subject to change based on the outcome of this meeting.
+
+## Timeline: Expected deployment dates and dates of importance
+  
+### Pre-Migration Phase
+### Assessment and Inventory (Week 1: January 29th through February 2nd)
+- Evaluate Customization Requirements: Identify any specific configurations, requirements, or customizations needed in the new Teams version.
+- Announce Migration Plan: Inform RCIT staff about the migration timeline and what to expect.
+- Teams Warning Banner: Starting on February 1, 2024, any classic Teams users who haven’t updated to new Teams will begin seeing an informational banner to remind them about the timeline for the auto update. This banner will appear in the main Teams client window at the top of the page (underneath the main bar). Note: This notification is enforced and displayed by Microsoft. It can be dismissed, but it cannot be disabled. This will also prompt any time the Teams client is initially run.
+
+### User Communication and Training (Week 2: February 5th through February 9th)
+
+- Schedule Training Sessions: Organize training for the new Microsoft Teams features.
+
+## Migration Phase
+### Initial Setup and Pilot Testing (Week 3: February 5th through February 9th)
+- Set up Intune for Teams Deployment: Configure Microsoft Intune for opt-in deployment of new Teams version.
+- Conduct Pilot Migration: Migrate a small, controlled group using Intune and gather feedback.
+- Adjust Migration Strategy: Make necessary adjustments based on pilot feedback.
+
+### Optional Migration (Week 4-7: February 12th through March 8th)
+- Intune: Deploy "Opt-In" New Teams Version: Use Microsoft Intune to deploy the new version of Teams to all users.
+- Notification: Notification sent to BRMs and Agencies informing them of the required change and cut-off dates.
+
+### Forced Migration (Week 8: March 11th, 2024)
+- Intune: Deploy Mandatory installation of New Teams Version to all users.
+- Teams Admin: Enforce usage of new Teams via admin center.
 
 ## System Administrators
 - **Preparation and Planning**
@@ -37,7 +58,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
 - **Training and Documentation**
   - Providing vendor documentation on product changes (M365 Services Team)
   - Provide Teams client deployment troubleshooting information related to Intune/Configuration Manager deployments (Client Management Team)
- 
+
 ## Client Management Team
 - **Support Readiness**
   - Ensure endpoint devices are compatible with Modern Teams client
@@ -48,7 +69,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Provide support for device-related installation inquiries during the transition
   - Provide updated guidance to Help Desk and Field Services on any changes to endpoint installation process for Microsoft Teams (Configuration Manager/Intune)
   - Collaborate with M365 Services team
- 
+
 ## M365 Services Team
 - **Support Readiness**
   - Provide communication on rollout phases
