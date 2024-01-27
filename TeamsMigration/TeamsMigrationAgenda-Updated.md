@@ -16,7 +16,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
     - On March 31 2024, a new Teams client will be rolled out for users who are still on classic Teams, installing the new Teams client for them and uninstalling the classic Teams client. After this time, classic Teams will be unavailable.
     - After March 31 2024, if you’re already running on new Teams, there will be no change in behavior. Your Teams will continue working as expected. Users on classic Teams will be automatically updated to the new Teams client. Users won’t be able to switch back to classic Teams after this date, because classic Teams won’t be functional. Microsoft will attempt to uninstall classic Teams.
 
-## Part 1: System Administrators
+## System Administrators
 - **Preparation and Planning**
   
   - Review Modern Teams client compatibility items for endpoint devices
@@ -34,7 +34,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Providing vendor documentation on product changes (M365 Services Team)
   - Provide Teams client deployment troubleshooting information related to Intune/Configuration Manager deployments (Client Management Team)
  
-## Part 2: Client Management Team
+## Client Management Team
 
 - **Support Readiness**
 
@@ -48,7 +48,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Provide updated guidance to Help Desk and Field Services on any changes to endpoint installion process for Microsoft Teams (Configuration Manager/Intune)
   - Collaborate with M365 Services team
  
-## Part 3: M365 Services Team
+## M365 Services Team
 
 - **Support Readiness**
   - Provide communication on rollout phases
@@ -59,7 +59,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Implement Teams Administrative settings to allow for in-place upgrades
   - Enforce Modern Teams compliance through Teams administrative policy
 
-## Part 3: Help Desk
+## Help Desk
 
 - **Support Readiness**
   - Familiarizing with common issues and resolutions in Modern Teams Client
@@ -71,7 +71,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Escalating complex issues to M365 Services for Teams client policy issues
   - Documentation of related issues within Service Now.
 
-## Part 4: End Users
+## End Users
 
 - **Support Readiness**
   - Provide information for Rivco staff to assist with understanding the reason for the transition
