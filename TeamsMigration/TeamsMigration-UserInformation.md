@@ -22,7 +22,6 @@ To get started using the new Teams, flip the toggle next to "Try the new Teams" 
 
 #### Notes
 
-- **Minimum system requirements for the new Teams:** Windows 10 Vibranium 10.0.19041 and Microsoft Teams (work or school) version 1.5.00.29212 or higher.
 - If you don't see the toggle next to "Try the new Teams," contact your IT admin.
 
 #### To use the new Teams
