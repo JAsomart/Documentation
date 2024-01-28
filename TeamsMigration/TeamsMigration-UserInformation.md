@@ -53,7 +53,9 @@ If your account is a Guest in another organization, it will appear automatically
 
 The new Teams has full feature parity for almost all features including custom line-of-business apps, third-party apps, breakout rooms, 7x7 video, call queues, PSTN calling, contextual search in chats and channels, cross-post a channel conversation, and more.
 
-If you'd like to switch back to classic Teams, it's easy to toggle back and forth. To switch back to the classic Teams, turn off the New Teams toggle at the top of Teams.
+If you'd like to switch back to classic Teams, it's easy to toggle back and forth. To switch back to the classic Teams, turn off the New Teams toggle at the top of Teams. 
+- Please note, Classic Teams will no longer function after March 31, 2024, and any Classic Teams users whom have not updated to new Teams, will be automatically updated to new Teams.
+- Migration of any Teams settings can only occur once, and reversion to Classic Teams will prevent user based settings from being migrated a second time.
 
 #### Note
 
