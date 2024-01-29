@@ -23,7 +23,7 @@ To get started using the new Teams, flip the toggle next to "Try the new Teams" 
 #### Notes
 
 - If you don't see the toggle next to "Try the new Teams," contact your IT admin.
-
+- Classic Teams client users will begin to see a banner starting on February 1st, 2024, informing of required migration to the new modern Teams client.
 #### To use the new Teams
 
 1. Open the Teams desktop app on your Windows device.
