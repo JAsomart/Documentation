@@ -28,9 +28,10 @@ This document provides a detailed guide for IT Systems Administrators and Help D
 
 ### Initial Setup and Pilot Testing (Week 3: Febuary 5th through Febuary 9th)
 
-- **Set up Intune for Teams Deployment**: Configure Microsoft Intune for opt in deployment of new Teams version.
-- **Conduct Pilot Migration**: Migrate a small, controlled group using Intune and gather feedback.
+- **Set up Intune for Teams Deployment**: Configure Microsoft Intune for deployment of new Teams version.
+- **Change Policy to allow Rivco users to "Try the New Teams"**: Enabling this feature will allow a user to perform their own inplace upgrade.
 - **Adjust Migration Strategy**: Make necessary adjustments based on pilot feedback.
+- **Noficiation**: Notification sent to BRM's and Agencies informing them of the required change and cut-off dates
 
 ### Optional Migration (Week 4-7: Febuary 12th through March 8th)
 
