@@ -3,7 +3,7 @@
 ## Summary
 Microsoft Teams Classic Client is quickly approaching product end of life. 
 
-All clients who have not upgraded to the modern build, will need to do so prior to March 31st, 2024. Clients not in compliance will experienced a forced update through Microsoft.
+All clients who have not upgraded to the modern build, will need to do so prior to March 31st, 2024. Clients not in compliance will experience an attempted forced update through Microsoft.
 The intent of this meeting is to inform all parties of our intent to transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build prior to March 31st, 2024.
 
 ## Introduction - [Microsoft Teams Classic Client End of Availability](https://learn.microsoft.com/en-us/microsoftteams/teams-classic-client-end-of-availability)
