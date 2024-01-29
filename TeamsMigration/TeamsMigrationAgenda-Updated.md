@@ -1,7 +1,7 @@
 # Microsoft Teams Classic to Modern Rollout Agenda
 
 ## Summary
-Microsoft Teams Classic Client is quickly approaching product end of life. 
+Microsoft Teams Classic Client is approaching product end of life. 
 
 All clients who have not upgraded to the modern build, will need to do so prior to March 31st, 2024. Clients not in compliance will experience an attempted forced update through Microsoft.
 The intent of this meeting is to inform all parties of our intent to transition endpoint devices from Microsoft Teams Classic Build to Microsoft Teams Modern Build prior to March 31st, 2024.
@@ -12,7 +12,7 @@ The intent of this meeting is to inform all parties of our intent to transition 
   - Explanation of support roles and responsibilities within RCIT groups
   - Explanation of the required change, with information regarding the benefits and shortcomings of the new modern Teams client
 
-    - Starting on February 1 2024, any classic Teams users who haven’t updated to new Teams will begin seeing an informational banner to remind them about the timeline for the auto update. This banner will appear in the main Teams client window at the top of the page (underneath the main bar).
+    - Starting on February 1 2024, any classic Teams users who have not updated to the modern Teams client will begin seeing an informational banner to remind them to update to the new client. This banner will appear in the main Teams client window at the top of the page (underneath the main bar).
     - On March 31 2024, a new Teams client will be rolled out for users who are still on classic Teams, installing the new Teams client for them and uninstalling the classic Teams client. After this time, classic Teams will be unavailable.
     - After March 31 2024, if you’re already running on new Teams, there will be no change in behavior. Your Teams will continue working as expected. Users on classic Teams will be automatically updated to the new Teams client. Users won’t be able to switch back to classic Teams after this date, because classic Teams won’t be functional. Microsoft will attempt to uninstall classic Teams.
 
@@ -51,7 +51,6 @@ The intent of this meeting is to inform all parties of our intent to transition 
 ## M365 Services Team
 
 - **Support Readiness**
-  - Provide communication on rollout phases
   - Provide technical information for assigned tasks to other RCIT Teams
   - Providing support for device and policy related inquiries during the transition
 
