@@ -26,9 +26,15 @@ To get started using the new Teams, flip the toggle next to "Try the new Teams" 
 
 1. Open the Teams desktop app on your Windows device.
 2. Turn on the "Try the new Teams" toggle at the top of Teams.
+   
+![Alt text](https://support.content.office.net/en-us/media/b29b71b9-fb22-4425-95da-d7f8e6df0563.png)
+   
 3. Select "Get it now" from the pop-out dialogue. The new Teams will start installing.
-4. Your Teams app will reboot to open the new Teams. Any subsequent actions you take will happen in the new Teams by default, like joining a Teams meeting from Outlook.
-5. When in the new Teams, turn on (or off) notifications by selecting `Settings and more` > `Teams settings and more icon` at the top of the new Teams, then selecting `Settings` > `Notifications` > `Open Windows notifications settings`. Find Microsoft Teams (work preview) in the apps list and set your preference.
+
+![Alt text](https://support.content.office.net/en-us/media/b1597269-0b2d-4cb3-8424-a70bf8a7ff2d.png)
+  
+5. Your Teams app will reboot to open the new Teams. Any subsequent actions you take will happen in the new Teams by default, like joining a Teams meeting from Outlook.
+6. When in the new Teams, turn on (or off) notifications by selecting `Settings and more` > `Teams settings and more icon` at the top of the new Teams, then selecting `Settings` > `Notifications` > `Open Windows notifications settings`. Find Microsoft Teams (work preview) in the apps list and set your preference.
 
 ### Add Another Teams Account
 
@@ -42,6 +48,8 @@ When you add accounts to your Teams desktop app, you can:
 
 To add another account, select your profile picture at the top right of the new Teams, then select "Add another account."
 
+![Alt text](https://support.content.office.net/en-us/media/6bbe8d5e-bad5-4819-aafd-cfb441582928.png)
+
 #### MTMA New Teams
 
 If your account is a Guest in another organization, it will appear automatically. To learn more, see Manage accounts and organizations in Microsoft Teams.
@@ -51,6 +59,9 @@ If your account is a Guest in another organization, it will appear automatically
 The new Teams has full feature parity for almost all features including custom line-of-business apps, third-party apps, breakout rooms, 7x7 video, call queues, PSTN calling, contextual search in chats and channels, cross-post a channel conversation, and more.
 
 If you'd like to switch back to classic Teams, it's easy to toggle back and forth. To switch back to the classic Teams, turn off the New Teams toggle at the top of Teams. 
+
+![Alt text](https://support.content.office.net/en-us/media/9e7a6ea2-d6d4-4c7d-9669-fd9b7217e3d6.png)
+
 - Please note, Classic Teams will no longer function after March 31, 2024, and any Classic Teams users whom have not updated to new Teams, will be automatically updated to new Teams.
 - Migration of any Teams settings can only occur once, and reversion to Classic Teams will prevent user based settings from being migrated a second time.
 
@@ -65,3 +76,5 @@ For updates on features as they become available in the new Teams, see [What's n
 ### Get Help or Give Feedback
 
 Help is moving! In the new Teams, you can access authoritative help and support articles, videos, and the latest on what's new by selecting `Settings and more` > `Teams settings and more icon.` next to your profile picture at the top of the new Teams, then select `Help` > `Get help`, `Help` > `Video training`, or `Help` > `What's new`.
+
+![Alt test](https://support.content.office.net/en-us/media/0211ca09-ce8a-43b7-b8e2-6a7ee54ae531.png)
