@@ -11,7 +11,7 @@ Switch to the new Teams and experience the fastest version of Teams yet, rebuilt
 - [Start using the new Teams](#start-using-the-new-teams)
 - [Add another Teams account](#add-another-teams-account)
 - [Switch back to classic Teams](#switch-back-to-classic-teams)
-- [What's new in the new Teams](#whats-new-in-the-new-teams)
+- [What's new in the new Teams](#What's-New)
 - [Get help and give feedback](#Get-Help-or-Give-Feedback)
 
 ### Start Using the New Teams
