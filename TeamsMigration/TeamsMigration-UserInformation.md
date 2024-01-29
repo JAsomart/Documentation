@@ -2,8 +2,6 @@
 
 ## Notes
 
-As of October 5, 2023, the new Microsoft Teams app for Windows and Mac is generally available. The new Teams is also in public preview for Virtual Desktop Infrastructure (VDI) and government cloud customers.
-
 Features and enhancements to Microsoft Teams will be available exclusively in the new Teams. If you're still using classic Teams, you will be automatically upgraded to the new Teams in the coming months.
 
 Switch to the new Teams and experience the fastest version of Teams yet, rebuilt from the ground up. With a performance-first mindset, the new Teams is faster, simpler, and more flexible than ever before. In the new Teams, you can switch between apps, respond to chat messages, and join meetings and calls faster while using less battery and memory. Launch and navigate in fewer clicks, with the same layout you're used to.
@@ -67,7 +65,3 @@ For updates on features as they become available in the new Teams, see [What's n
 ### Get Help or Give Feedback
 
 Help is moving! In the new Teams, you can access authoritative help and support articles, videos, and the latest on what's new by selecting `Settings and more` > `Teams settings and more icon.` next to your profile picture at the top of the new Teams, then select `Help` > `Get help`, `Help` > `Video training`, or `Help` > `What's new`.
-
-#### Help in R3.6 New Teams
-
-Your feedback is critical for improving the Teams experience. If you encounter a bug or have feedback when using the new Teams
