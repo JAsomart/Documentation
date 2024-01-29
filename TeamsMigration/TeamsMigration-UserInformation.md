@@ -25,16 +25,10 @@ To get started using the new Teams, flip the toggle next to "Try the new Teams" 
 #### To use the new Teams
 
 1. Open the Teams desktop app on your Windows device.
-2. Turn on the "Try the new Teams" toggle at the top of Teams.
-   
-![Alt text](https://support.content.office.net/en-us/media/b29b71b9-fb22-4425-95da-d7f8e6df0563.png)
-   
-3. Select "Get it now" from the pop-out dialogue. The new Teams will start installing.
-
-![Alt text](https://support.content.office.net/en-us/media/b1597269-0b2d-4cb3-8424-a70bf8a7ff2d.png)
-  
-5. Your Teams app will reboot to open the new Teams. Any subsequent actions you take will happen in the new Teams by default, like joining a Teams meeting from Outlook.
-6. When in the new Teams, turn on (or off) notifications by selecting `Settings and more` > `Teams settings and more icon` at the top of the new Teams, then selecting `Settings` > `Notifications` > `Open Windows notifications settings`. Find Microsoft Teams (work preview) in the apps list and set your preference.
+2. Turn on the "Try the new Teams" toggle at the top of Teams. ![Alt text](https://support.content.office.net/en-us/media/b29b71b9-fb22-4425-95da-d7f8e6df0563.png)
+3. Select "Get it now" from the pop-out dialogue. The new Teams will start installing.![Alt text](https://support.content.office.net/en-us/media/b1597269-0b2d-4cb3-8424-a70bf8a7ff2d.png)
+4. Your Teams app will reboot to open the new Teams. Any subsequent actions you take will happen in the new Teams by default, like joining a Teams meeting from Outlook.
+5. When in the new Teams, turn on (or off) notifications by selecting `Settings and more` > `Teams settings and more icon` at the top of the new Teams, then selecting `Settings` > `Notifications` > `Open Windows notifications settings`. Find Microsoft Teams (work preview) in the apps list and set your preference.
 
 ### Add Another Teams Account
 
