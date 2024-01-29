@@ -1,4 +1,4 @@
-# Switch to the New Microsoft Teams
+# [Switch to the New Microsoft Teams](https://support.microsoft.com/en-us/office/switch-to-the-new-microsoft-teams-2d4a0c96-fa52-43f8-a006-4bfbc62cf6c5)
 
 ## Notes
 
