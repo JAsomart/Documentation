@@ -11,7 +11,7 @@ Switch to the new Teams and experience the fastest version of Teams yet, rebuilt
 - [Start using the new Teams](#start-using-the-new-teams)
 - [Add another Teams account](#add-another-teams-account)
 - [Switch back to classic Teams](#switch-back-to-classic-teams)
-- [What's New in the Modern Microsoft Teams experience?](#What's-New-in-the-Modern-Microsoft-Teams-experience?)
+- [Microsoft Teams Feature Changes](Microsoft-Teams-Feature-Changes)
 - [Get help and give feedback](#Get-Help-or-Give-Feedback)
 
 ### Start Using the New Teams
@@ -63,9 +63,9 @@ If you'd like to switch back to classic Teams, it's easy to toggle back and fort
 
 If you are in a meeting or call while turning off the toggle, a notification will ask you to confirm the switch. Your call or meeting will be disconnected.
 
-### What's New in the Modern Microsoft Teams experience?
+### Microsoft Teams Feature Changes
 
-For updates on features as they become available in the new Teams, see [What's new in the new Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/new-teams-whats-changing).
+For updates on features as they become available in the new Teams, see [what's new in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/new-teams-whats-changing).
 
 Current changes as published by Microsoft at the time of this writing:
 
