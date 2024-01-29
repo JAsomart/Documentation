@@ -8,9 +8,9 @@ The intent of this meeting is to inform all parties of our intent to transition 
 
 ## Introduction - [Microsoft Teams Classic Client End of Availability](https://learn.microsoft.com/en-us/microsoftteams/teams-classic-client-end-of-availability)
 - **Overview of Rollout Plan**
-  - Timeline: Expected deployment dates and dates of importance
+  - Explanation of the required change
   - Explanation of support roles and responsibilities within RCIT groups
-  - Explanation of the required change, with information regarding the benefits and shortcomings of the new modern Teams client
+  - Timeline: Dates of importance
 
     - Starting on February 1 2024, any classic Teams users who have not updated to the modern Teams client will begin seeing an informational banner to remind them to update to the new client. This banner will appear in the main Teams client window at the top of the page (underneath the main bar).
     - On March 31 2024, Microsoft will attempt to uninstall Classic Teams, and install the new modern Teams client (for users who still using classic Teams). Classic Teams will no longer function from this date forward
